@@ -1,0 +1,2 @@
+<import resource="beans.xml"/>
+ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
